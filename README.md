@@ -1,3 +1,3 @@
 #common functions
 
-*ajax error override
+* ajax error override
