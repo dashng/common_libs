@@ -1,8 +1,3 @@
-This document has now been incorporated into the uWSGI documentation::
+#common functions
 
-	http://uwsgi-docs.readthedocs.org/en/latest/tutorials/Django_and_nginx.html
-
-
-******************************
-Set up Django, nginx and uwsgi
-******************************
+*ajax error override
