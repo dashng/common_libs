@@ -1,8 +1,6 @@
 # common_libs
 
 ******************************
-Common functions in daily work
+Set up Django, nginx and uwsgi
 ******************************
-
-1. Jquery ajax error override
 
